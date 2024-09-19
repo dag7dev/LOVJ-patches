@@ -19,3 +19,6 @@ cfg_patches.patches = {"demos/name_of_patch_without_lua_extension"
 
 ## Screenshot
 - cyrix86mpu scroller
+
+![image](https://github.com/user-attachments/assets/2398667a-d233-4ad0-982b-b96b5a05bce9)
+
